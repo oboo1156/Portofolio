@@ -17,7 +17,7 @@ My work as a data scientist and machine learning enthusiast
 
 • Mainly used plotly library more than matplotlib
  
- ![TOP 10 HIGHEST PRICED BESTSELLERS](https://github.com/oboo1156/Portofolio/blob/main/images/newplot(1).png)
- ![TOP 10 BESTSELLERS WITH HIGHEST AVERAGE REVIEWS ](https://github.com/oboo1156/Portofolio/blob/main/images/newplot(1).png)
+ ![TOP 10 HIGHEST PRICED BESTSELLERS](https://github.com/oboo1156/Portofolio/blob/adding-aws_top_selling_books/images/newplot%20(1).png)
+ ![TOP 10 BESTSELLERS WITH HIGHEST AVERAGE REVIEWS ](https://github.com/oboo1156/Portofolio/blob/adding-aws_top_selling_books/images/newplot%20(2).png)
 
 
