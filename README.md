@@ -1,5 +1,5 @@
 # Portofolio
-My work as a data scientist and machine learning enthusiast
+My work as a data scientist and machine learning engineer
 
 # [Project1: Predicting diabetes using Sequential and Support Vector Machine model](https://github.com/oboo1156/diabetes_prediction_with_different_models/blob/main/diabetes_prediction_with%20different_models.ipynb)
 
